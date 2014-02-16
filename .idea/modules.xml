@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TR3.iml" filepath="$PROJECT_DIR$/TR3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TR3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/TR3-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TR33/TR33.iml" filepath="$PROJECT_DIR$/TR33/TR33.iml" />
+    </modules>
+  </component>
+</project>
+
